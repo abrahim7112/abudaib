@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://abudiab.onrender.com/sitemap.xml
+Disallow: /admin/

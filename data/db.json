@@ -1,0 +1,46 @@
+{
+  "blogPosts": [
+    {
+      "title": {
+        "de": "يب",
+        "en": "قث"
+      },
+      "content": {
+        "de": "ققققق",
+        "en": "ثثثثث"
+      },
+      "image": "/img/diab.png",
+      "slug": "هلا",
+      "published": true,
+      "id": "1757366434427"
+    },
+    {
+      "id": "1757367122442",
+      "title": {
+        "de": "غفعع",
+        "en": "ثثثر"
+      },
+      "content": {
+        "de": "سسسسسسسسسث",
+        "en": "يييييييس"
+      },
+      "slug": "ةتت",
+      "image": "/uploads/1757367122425.png",
+      "published": true
+    },
+    {
+      "id": "1762034062613",
+      "title": {
+        "de": "dsd",
+        "en": "we"
+      },
+      "content": {
+        "de": "eeee",
+        "en": "dddd"
+      },
+      "slug": "123",
+      "image": "/uploads/1762034062607.png",
+      "published": true
+    }
+  ]
+}
